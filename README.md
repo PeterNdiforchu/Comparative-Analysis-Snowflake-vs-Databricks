@@ -43,6 +43,8 @@ As a SaaS startup providing an appointment scheduling tool similar to Calendly, 
 - Storage: $23 per TB per month.
 - Example Total Cost: ~$3,030 per month.
 
+The cost models above are very simplistic based on the assumptions on storage and computing. It is important to note that the cost estimates don't factor in the cost of ownership from the platform provider and the humans doing the work. Databricks can be slightly cheaper if you hire people skilled at tuning Spark clusters and they tend to be more on the pricey end in terms of compensation. However, Snowflake requires significantly little skill to reduce the cost of computing. 
+
 #### Recommendations
 
 **Snowflake (with Snowpark ML)**:
